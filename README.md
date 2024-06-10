@@ -1,5 +1,3 @@
-# revisao4AV-victor
-
 ## Instruções
 
 O aluno deverá retornar apenas o link do repositório no GitHub com as soluções das questões abaixo.

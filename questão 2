@@ -17,8 +17,8 @@ def default_loop():
         if funcao_ou_lib[0].lower() == "f":
             break
         else:
-            # escreva(f"Acessando o manual do comando {funcao_ou_lib}")
-            # sleep(1)
+            escreva(f"Acessando o manual do comando {funcao_ou_lib}")
+            sleep(1)
             pyhelp(funcao_ou_lib)
 
 
